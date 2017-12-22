@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Djian1.0</finalName>
+    <finalName>Djian1.1</finalName>
   </build>
 </project>
